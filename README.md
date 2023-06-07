@@ -38,7 +38,9 @@ The COVID-19 pandemic has had a significant global impact, with countries taking
 
 ## Folder Structure
 -`DB`: Folder to store data sets and preprocessed data files.
+
 -`Visualization Materials`: Folder to store visualized pictures.
+
 -`Code`: Folder to store the Python code implementing visualization.
 
 
