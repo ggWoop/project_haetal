@@ -34,7 +34,7 @@ The COVID-19 pandemic has had a significant global impact, with countries taking
 ## Data and Methods
 - Data: Utilizing official statistical data on the number of arrivals in South Korea and related data sets.
 - Methods: Processing data using Python language and data analysis libraries, and implementing map visualization using the Folium library.
-- References: The project is conducted referring to this Velog post.
+- References: The project is conducted referring to [this Velog post.](https://velog.io/@wood1798/%EC%BD%94%EB%A1%9C%EB%82%98-%EC%A0%84%ED%9B%84-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EC%9E%85%EA%B5%AD%EC%9E%90-%EC%88%98-%ED%8C%A8%ED%84%B4%EC%9D%98-%EB%B3%80%ED%99%94-%ED%8C%AC%EB%8D%B0%EB%AF%B9%EC%9D%98-%EC%98%81%ED%96%A5%EA%B3%BC-%EC%A0%95%EB%B6%80%EC%9D%98-%EB%8C%80%EC%9D%91)
 
 ## Folder Structure
 - `DB`: Folder to store data sets and preprocessed data files.
