@@ -25,18 +25,18 @@ COVID-19 팬데믹은 전 세계적으로 큰 영향을 미치며, 국가들은 
 # Project Haetal
 ## Changes in the pattern of arrivals in South Korea before and after COVID-19: Impact of the pandemic and the government's response
 
-##Project Overview
+## Project Overview
 This repository is for the project of Team 'Haetal' researching the changes in the pattern of arrivals in South Korea before and after COVID-19. This project aims to analyze and visualize the changes in the number of arrivals in South Korea, focusing on the impact of the COVID-19 pandemic and the government's response.
 
-Background
+## Background
 The COVID-19 pandemic has had a significant global impact, with countries taking various measures such as managing the number of arrivals and formulating responses. In this project, we collect data on the number of arrivals in South Korea, and analyze the pattern changes before and after COVID-19 to investigate the impact of the pandemic on the mobility of arrivals in the country and the government's response measures.
 
-##Data and Methods
+## Data and Methods
 - Data: Utilizing official statistical data on the number of arrivals in South Korea and related data sets.
 - Methods: Processing data using Python language and data analysis libraries, and implementing map visualization using the Folium library.
 - References: The project is conducted referring to this Velog post.
 
-##Folder Structure
+## Folder Structure
 -`DB`: Folder to store data sets and preprocessed data files.
 -`Visualization Materials`: Folder to store visualized pictures.
 -`Code`: Folder to store the Python code implementing visualization.
